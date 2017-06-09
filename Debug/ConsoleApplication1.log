@@ -1,0 +1,16 @@
+﻿  func.c
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(212): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(227): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(304): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(320): warning C4133: '함수': 'char [23]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(467): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(465): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(463): warning C4101: 'fp' :참조되지 않은 지역 변수입니다.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(464): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\onyou\documents\visual studio 2015\projects\consoleapplication1\func.c(466): warning C4101: 'loop' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\onyou\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\onyou\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
