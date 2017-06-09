@@ -6,7 +6,7 @@
 
 #define SIZE_MAP_X 30
 #define SIZE_MAP_Y 24 
-
+#define test 1
 #define ESC 27
 #define UP 72
 #define DOWN 80
