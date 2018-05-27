@@ -4,7 +4,7 @@
 	
 ### 내용
 
-<img src="./screenshot/pushpush.png" width="100%" height="100%">
+<img src="./image/pushpush.png" width="100%" height="100%">
 
     1) 텍스트 출력과 텍스트 지우기의 반복에 의하여 2차원 배열로 구성된 맵이 움직이는 것을 연출하였습니다.
     2) 현재 스테이지와 움직인 횟수, 박스를 민 횟수를 별 모양이 움직일 때 마다 갱신하도록 작성하였습니다.
